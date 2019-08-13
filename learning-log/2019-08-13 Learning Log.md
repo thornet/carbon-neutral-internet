@@ -16,9 +16,9 @@ Deep notes from collaborators who spoke with data center experts on the environm
 
 Dipping toes into sustainable web hosts. Examples:
 * [Leap](https://leap.eco/)
-* [Green House Data](https://www.greenhousedata.com/cloud-hosting
+* [Green House Data](https://www.greenhousedata.com/cloud-hosting) 
 
 Talking with Jon now that he's back in Scotland: 
 * The Reappearing Computer. Design has been complicit in computing becoming invisible. The move of data centers to urban centers. The need to view source! Energy consumption revealed in devices.  
-* The Open IoT Studio narrative: responsibility expanded from internet health to now healthy planet. 
-* 
+* The Open IoT Studio narrative: responsibilities expanded from internet health to healthy planet. 
+* Opportunity to commission or do some small seed projects to tell the story of this next chapter. 
