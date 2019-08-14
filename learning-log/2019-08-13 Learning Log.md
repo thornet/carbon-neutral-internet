@@ -22,3 +22,14 @@ Talking with Jon now that he's back in Scotland:
 * The Reappearing Computer. Design has been complicit in computing becoming invisible. The move of data centers to urban centers. The need to view source! Energy consumption revealed in devices.  
 * The Open IoT Studio narrative: responsibilities expanded from internet health to healthy planet. 
 * Opportunity to commission or do some small seed projects to tell the story of this next chapter. 
+
+Good data center targets include: 
+* Placed in a deregulated jurisdiction
+* A d.c. that already has 1 green site. 
+* Arguments for moving to renewables from the website's perspective. It's cheaper to have a data center change power provider than have a engineer migrate servers. 
+* Company ideas: SoundCloud (mostly hosted with AWS). 
+* Data center ideas: krystal.co.uk (in London). Netwise. 
+* Good company commitment is (HT, Chris Adams!): 
+“We will not use fossil fuel powered infrastructure for new services or projects. We will have moved entirely off fossil fuels by $DATE.”
+* Or some websites that want to compete on greenness/transparency because they're not yet big players.
+*  
