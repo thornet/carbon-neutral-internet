@@ -16,7 +16,7 @@ Other readings:
 * [The Megawatts behind Your Megabytes: Going from Data-Center to Desktop (2012)](https://aceee.org/files/proceedings/2012/data/papers/0193-000409.pdf). Calculations of electricity of all internet usage, inc. devices and towers. "Our  major  finding  is  that  the  Internet  uses  an  average  of  about  5  kWh  to  support  the  utilization  of  every  GB  of  data,  which  equates  to  about  $0.51  of  energy  costs.    Only  38%  of  those costs are borne by the end-user, while the remaining costs are thinly spread over the global Internet  through  which  the  data  travels;  in  switches,  routers,  signal  repeaters,  servers,  and  data  centers  (See  Figure  1  below).      This  creates  a  societal  “tragedy  of  the  commons,”  where  end  users have little incentive to consider the other 62% of costs and associated resources. "
 * [Google's Cloud Sustainability](https://cloud.google.com/sustainability/). Reporting on its move to renewables and comparisons with other providers. 
 * [Greenpeace USA Clicking Clean Report (2017)](https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/) 
-* Institute for New Economic Thinking, Oxford. [Prof Eric Beinhocker, its ED, writing on G20/carbon abolition/clean energy]((https://www.inet.ox.ac.uk/people/eric-beinhocker/)[Deputy Director of its Economics of Sustainability](https://www.inet.ox.ac.uk/news/dr-linus-mattauch-appointed-economics-of-sustainability-programme-deputy-director/)
+* Institute for New Economic Thinking, Oxford. [Prof Eric Beinhocker, its ED, writing on G20/carbon abolition/clean energy](https://www.inet.ox.ac.uk/people/eric-beinhocker/)[Deputy Director of its Economics of Sustainability](https://www.inet.ox.ac.uk/news/dr-linus-mattauch-appointed-economics-of-sustainability-programme-deputy-director/)
   
   
   Data centers: 
@@ -25,4 +25,3 @@ Other readings:
   * [2012 Wired article about Mozilla's data center in California](https://www.wired.com/2012/05/mozillas-new-datacenter/). 
   * [Open Compute Project](https://www.opencompute.org/). a collaborative community focused on redesigning hardware technology to efficiently support the growing demands on compute infrastructure. "In 2011, Facebook shared its designs with the public and—along with Intel and Rackspace, Goldman Sachs and Andy Bechtolsheim—launched the Open Compute Project and incorporated the Open Compute Project Foundation. "
   * [Sustainable Digital Infrastructure Alliance](https://sdialliance.org/SDIA_OnePager.pdf). "aims to accelerate these multilateral agreements for more sustainable operations and higher economic performance" 
- 
