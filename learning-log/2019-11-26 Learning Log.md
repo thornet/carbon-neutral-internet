@@ -8,5 +8,7 @@
 
 Preparing a brief slide show for **[APC's Disco Tech on climate and ICTs](https://www.apc.org/en/news/save-date-disco-tech-2019-environmental-impact-icts)** as part of the Internet Governance Forum. 
 
+<img src="https://cdn0.scrvt.com/2828ebc457efab95be01dd36047e3b52/b2db73e96a8769dd/23a51a974007/The-Carbon-Footprint.svg"> 
+*The carbon footprint of (nearly) everything" by Viessmann based on data from https://climate.nasa.gov/evidence/* 
 
 
